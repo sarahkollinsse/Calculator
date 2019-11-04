@@ -1,0 +1,10 @@
+/Users/sarahleecheescake/Projects/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.deps.json
+/Users/sarahleecheescake/Projects/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.dll
+/Users/sarahleecheescake/Projects/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.pdb
+/Users/sarahleecheescake/Projects/Calculator/Calculator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/sarahleecheescake/Projects/Calculator/Calculator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/sarahleecheescake/Projects/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfoInputs.cache
+/Users/sarahleecheescake/Projects/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfo.cs
+/Users/sarahleecheescake/Projects/Calculator/Calculator/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/sarahleecheescake/Projects/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.dll
+/Users/sarahleecheescake/Projects/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.pdb
